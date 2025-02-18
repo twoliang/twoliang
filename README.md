@@ -6,4 +6,3 @@
 - 📫 e-mail: jmz2972924408@163.com/lltwotwo04@gmail.com
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoliang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=twoliang&show_icons=true&theme=radical)
